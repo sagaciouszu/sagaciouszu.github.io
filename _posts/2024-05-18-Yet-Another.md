@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Begin
+title: Yet Another Bland PPost
 date: 2024-05-18 11:43:41 -0400
 categories: [personal, updates]
 tags: [updates]
-description: It's a thing. Woo.
+description: Space can be filled with words.
 image:
-  path: /assets/img/posts/0ii8e89q21xc1.jpeg
+  path: /assets/img/posts/reanim.jpeg
   alt: image alternative text
-pin: true
+pin: false
 mermaid: true
 ---
 
