@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Begin
-date: 2024-05-18 10:41:11 -0400
+date: 2024-05-18 11:43:41 -0400
 categories: [personal, updates]
 tags: [updates]
 description: It's a thing. Woo.
