@@ -212,15 +212,6 @@ exclude:
   - "*.config.js"
   - package*.json
 
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
-
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
